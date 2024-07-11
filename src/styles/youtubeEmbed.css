@@ -1,0 +1,25 @@
+.youtube-embed {
+  transition: transform 0.3s ease-in-out;
+}
+
+/*.youtube-embed:hover {
+  transform: scale(1.05);
+}*/
+
+.bg-light {
+  background-color: #6197ce7d !important;
+  border-radius: 5px;
+  margin-top: 100px;
+}
+
+@media (max-width: 768px) {
+  .youtube-embed iframe {
+    height: 300px;
+  }
+}
+
+@media (max-width: 576px) {
+  .youtube-embed iframe {
+    height: 200px;
+  }
+}

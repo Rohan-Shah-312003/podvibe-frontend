@@ -1,0 +1,38 @@
+.create-podcast {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .create-podcast h1 {
+    color: ivory;
+    font-size: 4.2rem;
+  }
+  
+  .create-podcast form {
+    width: 50%;
+  }
+  
+  .create-podcast .alert {
+    color: red;
+    font-size: 1.2rem;
+  }
+  
+  .create-podcast .form-label {
+    font-weight: bold;
+  }
+  
+  .create-podcast .form-control {
+    border-color: #ced4da; 
+  }
+  
+  .create-podcast .btn-primary {
+    background-color: #007bff; 
+    border-color: #007bff;
+  }
+  
+  .create-podcast .btn-primary:hover {
+    background-color: #0069d9; 
+    border-color: #0062cc;
+  }
+  

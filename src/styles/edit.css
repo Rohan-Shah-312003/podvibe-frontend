@@ -1,0 +1,45 @@
+
+.create-podcast {
+    background-color: #333;
+    color: ivory;
+  }
+  
+  .create-podcast form {
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .create-podcast h1 {
+    font-size: 4.2rem;
+  }
+  
+  .create-podcast label {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .create-podcast input[type="text"],
+  .create-podcast textarea {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .create-podcast button {
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+  }
+  
+  .bg-warning {
+    background-color: #ffc107;
+  }
+  
+  .red {
+    color: red;
+  }
+  
